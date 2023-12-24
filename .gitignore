@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all log files
+*.log
+
+# Ignore the .env file which might contain sensitive information
+.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore files related to IDE
+.vscode
+.idea
+*.swp
+*.swo
+*.swn
+*.bak
